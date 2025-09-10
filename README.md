@@ -27,9 +27,23 @@ Users can sign up, log in, and track activities in real-time with secure authent
 
 ## 📂 Project Structure
 
+
 ├── accounts/ # User auth system (signup, login, logout, templates)
 ├── activity/ # Activity tracking + WebSockets
 ├── django_project/ # Main Django project config
 ├── templates/ # Global templates
 ├── manage.py
 └── requirements.txt
+
+
+---
+
+## ⚡ Installation & Setup
+
+1. Clone repo:
+   ```bash
+   git clone https://github.com/<your-username>/realtime-activity-dashboard.git
+   cd realtime-activity-dashboard
+
+
+
